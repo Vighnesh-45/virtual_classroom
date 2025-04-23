@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+deepface
+mediapipe
+openpyxl
+numpy
+pillow
+uuid
